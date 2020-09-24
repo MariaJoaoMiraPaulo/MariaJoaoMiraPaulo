@@ -1,11 +1,10 @@
-<br />
-
-<img align="left" alt="GIF" height="400px" src="https://media.giphy.com/media/3ohhwgUA9FR4ktST4c/giphy.gif" />
+<img align="left" alt="GIF" height="350px" src="https://media.giphy.com/media/3ohhwgUA9FR4ktST4c/giphy.gif" />
 
 <br />
 
 ###  Hi there 👋 I'm Maria João
-- I'm a full Stack Developer at Talkdesk
+- I'm a Full-Stack Developer at Talkdesk
+- I have a Master in Informatics and Computing Engineering
 - More about me at http://mariajoao.dev/ 
 <!-- - A Computer Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development and Machine Learning.
