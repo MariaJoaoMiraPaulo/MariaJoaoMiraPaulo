@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" width="400px" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<!--<img align="right" alt="GIF" width="400px" src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" />-->
 
 ###  I'm Maria João
 - I'm a full Stack Developer at Talkdesk
