@@ -1,8 +1,10 @@
-### Hi there 👋
+<br />
 
-<!--<img align="right" alt="GIF" width="400px" src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" />-->
+<img align="left" alt="GIF" height="400px" src="https://media.giphy.com/media/3ohhwgUA9FR4ktST4c/giphy.gif" />
 
-###  I'm Maria João
+<br />
+
+###  Hi there 👋 I'm Maria João
 - I'm a full Stack Developer at Talkdesk
 - More about me at http://mariajoao.dev/ 
 <!-- - A Computer Engineering Undergraduate Student. 
