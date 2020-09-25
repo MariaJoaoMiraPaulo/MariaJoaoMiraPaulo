@@ -5,7 +5,7 @@
 ###  Hi there 👋 I'm Maria João
 - I'm a Full-Stack Developer at Talkdesk
 - I have a Master in Informatics and Computing Engineering
-- More about me ➡️ http://mariajoao.dev/ 
+- More about me ➡️  http://mariajoao.dev/ 
 <!-- - A Computer Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development and Machine Learning.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.--> 
